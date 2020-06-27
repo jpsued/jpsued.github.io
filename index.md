@@ -10,3 +10,4 @@ At the moment the user knows which character will be displayed. However, a short
 Famous Quote:
 > This is my most famous quote
 
+<img src="https://cdn.pixabay.com/photo/2020/06/17/15/06/coronavirus-5309938_960_720.jpg"/>
